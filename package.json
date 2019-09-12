@@ -1,0 +1,22 @@
+{
+  "name": "birthday-practical",
+  "version": "1.0.0",
+  "private": true,
+  "description": "cs312 birthday practical exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint" : "eslint ."
+  },
+  "author": "abraham beningson",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
